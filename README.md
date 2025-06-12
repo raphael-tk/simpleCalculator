@@ -14,7 +14,7 @@ Criei ela como primeiro exercício prático depois de estudar a base da linguage
 
 1. Compile o código com algum compilador C++ (ex: `g++`):
    ```bash
-  g++ calculadora.cpp -o calculadora
+     g++ calculadora.cpp -o calculadora
    
 2. Execute no terminal:
 ./calculadora
