@@ -17,7 +17,8 @@ Criei ela como primeiro exercício prático depois de estudar a base da linguage
      g++ calculadora.cpp -o calculadora
    
 2. Execute no terminal:
-./calculadora
+   ```bash
+     ./calculadora
 
 4. Informe dois números e escolha a operação desejada.
 
